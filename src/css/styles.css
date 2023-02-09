@@ -20,7 +20,7 @@ body {
 }
 /* country-info */
 
-/* .country-info__wrapper {
+.country-info__wrapper {
   display: flex;
   align-items: center;
   margin-bottom: 30px;
@@ -47,7 +47,7 @@ body {
 }
 
 /* country-list */
-/* 
+
 .country-list__item {
   display: flex;
   align-items: center;
@@ -61,4 +61,4 @@ body {
 .country-list__name {
   font-size: 18px;
   font-weight: 500;
-} */ 
+} 
